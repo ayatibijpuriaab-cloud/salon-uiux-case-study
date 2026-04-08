@@ -8,41 +8,41 @@ This project focuses on designing a modern, responsive salon website UI that imp
 
 To create a clean, conversion-focused interface that helps users:
 
-Explore services easily
-Build trust through testimonials
-Book appointments seamlessly
+#Explore services easily
+#Build trust through testimonials
+#Book appointments seamlessly
 
 Target Users
 
-Young working professionals (20–35)
-Individuals looking for premium salon services
-Users who prefer quick and easy booking
+#Young working professionals (20–35)
+#Individuals looking for premium salon services
+#Users who prefer quick and easy booking
 
 Design Structure
 
- Homepage (Hero, Services, Reviews, Contact)
- Service Detail Page
- Contact / Lead Generation Form
- Mobile Responsive Layout
+ #Homepage (Hero, Services, Reviews, Contact)
+ #Service Detail Page
+ #Contact / Lead Generation Form
+ #Mobile Responsive Layout
 
 UX Decisions
 
- Clear CTA buttons for booking
- Minimal and clean layout for easy navigation
- Mobile-first approach for better usability
- Use of visual hierarchy for readability
+ #Clear CTA buttons for booking
+ #Minimal and clean layout for easy navigation
+ #Mobile-first approach for better usability
+ #Use of visual hierarchy for readability
 
 Conversion Strategy
 
- WhatsApp CTA for instant booking
- Testimonials to build trust
- Simple form to reduce friction
+ #WhatsApp CTA for instant booking
+ #Testimonials to build trust
+ #Simple form to reduce friction
 
 Tools Used
 
- Figma
- Auto Layout
- Components & Variants
+ #Figma
+ #Auto Layout
+ #Components & Variants
 
 
  Figma File
