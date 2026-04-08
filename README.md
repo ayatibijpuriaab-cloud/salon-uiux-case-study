@@ -22,15 +22,6 @@ UI/UX design for a salon website and appointment booking app
 
 ## 📱 Mobile UI Screens
 
-### Appointment Form
-![Appointment Form](appointment%20form.mob.png)
-
-### Category Selection
-![Category Selection](category%20selection.mob.png)
-
-### Filled Form
-![Filled Form](Service%20filled.mob.png)
-
 ### Full Mobile Homepage
 ![Mobile Homepage](Salon%20Website_mob.png)
 
@@ -39,6 +30,15 @@ UI/UX design for a salon website and appointment booking app
 
 ### Side Navigation
 ![Side Nav](Side%20Nav.mobile.png)
+
+### Appointment Form
+![Appointment Form](appointment%20form.mob.png)
+
+### Category Selection
+![Category Selection](category%20selection.mob.png)
+
+### Filled Form
+![Filled Form](Service%20filled.mob.png)
 
 ### Success Screen
 ![Success Screen](Success%20screen.mob.png)
