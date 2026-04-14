@@ -1,4 +1,4 @@
-# salon-uiux-case-study
+# Future_UIUX_1
 UI/UX design for a salon website and appointment booking app
 ## 📸 Screens
 
